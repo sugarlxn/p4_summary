@@ -1,0 +1,1 @@
+bfrt.mirror_digest.pipe.Ingress.random_drop> add_with_set_drop(random_value_start=0,random_value_end=10000,MATCH_PRIORITY=0)

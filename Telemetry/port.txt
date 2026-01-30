@@ -1,0 +1,8 @@
+ucli
+pm
+port-add 13/- 100G RS
+port-add 14/- 100G RS
+port-add 17/- 100G RS
+port-add 18/- 100G RS
+port-enb -/-
+show 
